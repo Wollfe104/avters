@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: lightsalmon;
+}
+
+h1 {
+    background-color:indianred;
+}
+
+h2 {
+    background-color:indianred;
+}
+
+a {
+    color: rgb(236, 52, 20);
+    text-decoration: none;
+}
+
+header {
+    background-color: sandybrown;
+    font-family: Georgia;
+}
+
+.violet {
+    background-color: palevioletred;
+}
+
+.salom {
+    background-color:darksalmon;
+}
+footer {
+    background-color: cadetblue;
+}
+
+select {
+    background-color: aqua;
+    color:black;
+}
+nav a {
+    color:darkgreen;
+    text-decoration: none;
+}
